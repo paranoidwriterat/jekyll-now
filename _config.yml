@@ -6,7 +6,7 @@
 name: Mr. Paranoid
 
 # Short bio or description (displayed in the header)
-description: a writer suffering from extreme paranoia about privacy
+description: I'm Prof. Albert Frankenstein, a writer suffering from extreme paranoia about privacy
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/paranoidwriterat/jekyll-now/master/images/jekyll-logo.png
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: paranoidwriterat/jekyll-now
+  github: paranoidwriterat
   instagram:
   linkedin:
   pinterest:
